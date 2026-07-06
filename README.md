@@ -11,6 +11,8 @@ Build and tune a classification model to identify fraudulent credit card transac
 **Size:** 284,807 transactions, 31 features (Time, Amount, V1–V28 PCA components, Class)
 **Imbalance:** 99.83% legitimate vs. 0.17% fraudulent
 
+**Download from Kaggle:** https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+Place `creditcard.csv` in the project root folder.
 
 **Approach**
 
