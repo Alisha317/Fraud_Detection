@@ -30,12 +30,12 @@ Evaluated on the untouched test set using **Precision, Recall, F1, and ROC-AUC**
 
 
 **Results**
-
-Metric (Fraud class)   Logistic Regression   Random Forest
-Precision               0.06                  **0.51**
-Recall                  **0.92**                  0.89
-F1-score                0.11                  **0.65**
-ROC-AUC                 0.971                 **0.985**
+| Metric (Fraud class) | Logistic Regression | Random Forest |
+|-----------------------|----------------------|----------------|
+| Precision             | 0.06                 | **0.51**       |
+| Recall                | **0.92**             | 0.89           |
+| F1-score              | 0.11                 | **0.65**       |
+| ROC-AUC               | 0.971                | **0.985**      |
 
 Best CV ROC-AUC during tuning:
 
